@@ -1,0 +1,46 @@
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 依赖相关
+node_modules/
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# 日志相关
+logs/
+*.log
+
+# 配置文件
+.env
+.env.local
+.env.*.local
+
+# 测试相关
+coverage/
+.nyc_output/
+
+# 构建相关
+dist/
+build/
+
+# 数据库相关
+*.db
+*.sqlite
+*.sqlite3
+
+# 操作系统相关
+Thumbs.db
+Desktop.ini
+
+# 其他
+*.tmp
+*.temp
+.cache/
